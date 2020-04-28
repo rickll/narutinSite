@@ -243,7 +243,7 @@ body::-webkit-scrollbar-corner {
   top: 20px;
   z-index: 9998;
   border: 0;
-  background: none;
+  background: white;
   font-size: 24px;
   transition: all 0.4s;
   outline: none !important;
@@ -253,7 +253,7 @@ body::-webkit-scrollbar-corner {
 }
 
 .mobile-nav-toggle i {
-  color: #fff;
+  color: #c72618;
 }
 
 .mobile-nav {
@@ -1108,27 +1108,27 @@ section {
   left: 0;
   bottom: -40px;
   right: 0;
-  height: 40px;
+  height: 50px;
   opacity: 0;
   transition: bottom ease-in-out 0.4s;
   text-align: center;
-  background: rgba(220, 20, 60, 0.8);
+  background: rgba(225, 225, 255, 0.9);
 }
 
 .team .member .social a {
   transition: color 0.3s;
-  color: #fff;
+  color: gray;
   margin: 0 10px;
   padding-top: 8px;
   display: inline-block;
 }
 
 .team .member .social a:hover {
-  color: #7cc576;
+  color: #fff;
 }
 
 .team .member .social i {
-  font-size: 18px;
+  font-size: 24px;
   margin: 0 2px;
 }
 
