@@ -45,13 +45,13 @@ h1, h2, h3, h4, h5, h6 {
   width: 40px;
   height: 40px;
   border-radius: 4px;
-  background: #7cc576;
+  background: #c72618;
   color: #fff;
   transition: all 0.4s;
 }
 
 .back-to-top i:hover {
-  background: #61b959;
+  background: #c72618;
   color: #fff;
 }
 
@@ -68,7 +68,7 @@ h1, h2, h3, h4, h5, h6 {
 # Header
 --------------------------------------------------------------*/
 #header {
-  height: 100px;
+  height: 80px;
   transition: all 0.5s;
   z-index: 997;
   transition: all 0.5s;
@@ -144,7 +144,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .nav-menu a:hover, .nav-menu .active > a, .nav-menu li:hover > a {
-  color: #7cc576;
+  color: #ed5700;
   text-decoration: none;
 }
 
@@ -181,7 +181,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .nav-menu .drop-down ul a:hover, .nav-menu .drop-down ul .active > a, .nav-menu .drop-down ul li:hover > a {
-  color: #7cc576;
+  color: #c72618;
 }
 
 .nav-menu .drop-down > a:after {
@@ -229,7 +229,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .mobile-nav-toggle i {
-  color: #7cc576;
+  color: #fff;
 }
 
 .mobile-nav {
@@ -264,7 +264,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .mobile-nav a:hover, .mobile-nav .active > a, .mobile-nav li:hover > a {
-  color: #7cc576;
+  color: #c72618;
   text-decoration: none;
 }
 
